@@ -1,4 +1,4 @@
-# 6.0002-PSET-3----Fall-2022
+# 6.0002-PSET-3----Fall-2021
 
 Problem Set 3: Robot Simulation
 
